@@ -1,0 +1,3 @@
+rootProject.name = "Android Serilogj"
+include ':serilogj'
+include ':app'
