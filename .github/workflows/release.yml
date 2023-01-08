@@ -6,7 +6,7 @@ on:
 
 jobs:
   publish:
-    name: Release Android Seriloj
+    name: Release Android Serilogj
     runs-on: ubuntu-latest
 
     steps:

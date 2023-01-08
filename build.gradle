@@ -2,12 +2,12 @@
 buildscript {
     ext {
         setup = [
-                compileSdk: 32,
-                buildTools: "32.0.0",
+                compileSdk: 33,
+                buildTools: "33.0.1",
                 minSdk    : 19,
-                targetSdk : 32,
-                versionCode: 1000,
-                versionName: "1.0.0"
+                targetSdk : 33,
+                versionCode: 1001,
+                versionName: "1.0.1"
         ]
 
         librarydependencies = [

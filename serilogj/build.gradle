@@ -6,7 +6,7 @@ ext {
     mGroupId = "com.github.maurosoft1973"
     mArtifactId = "android-serilogj"
     mVersionCode = 1
-    mVersionName = "1.0.0"
+    mVersionName = "1.0.1"
 
     mLibraryName = "AndroidSerilogj"
     mLibraryDescription = "Android Serilogj"
@@ -70,4 +70,3 @@ afterEvaluate {
 
 // Assembling should be performed before publishing package
 publish.dependsOn assemble
-
